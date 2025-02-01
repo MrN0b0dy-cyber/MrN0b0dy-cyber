@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I've be working on telecom for 5 years and decided to share my knowledge in routing and swtiching, I'm graduated in cybersecurity and also study offensive security since 2024. 
+I've be working on telecom for 5 years and decided to share my knowledge in routing and switching, I'm graduated in cybersecurity and also study offensive security since 2024. 
 
 ### Programming language  
  
