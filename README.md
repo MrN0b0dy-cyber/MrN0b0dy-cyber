@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 👨‍💻I've be working on telecom for 5 years and decided to share my knowledge in routing and switching, I'm graduated in cybersecurity and also study offensive security since 2024. 
 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JUNIPER" height="30" width="40" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
+</div>
+
+  
 ### Programming languages 
  
 <div style="display: inline_block"><br>
