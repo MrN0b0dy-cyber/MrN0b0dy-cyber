@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HUAWEI" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
-  <img align="center" alt="DATACOM" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
   <img align="center" alt="JUNIPER" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
+  <img align="center" alt="HUAWEI" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Huawei.jpg">
+  <img align="center" alt="CISCO" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/CISCO.png">
+  <img align="center" alt="DATACOM" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/datacom.jpg">
 </div>
 
   
