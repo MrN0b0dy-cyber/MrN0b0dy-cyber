@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JUNIPER" height="30" width="40" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
+  <img align="center" alt="JUNIPER" height="60" width="50" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
 </div>
 
   
