@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
  
 <div> 
-  <a href="https://tryhackme.com/p/Mr.N0body" target="_blank"><img src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/tryhackme.jpg" target="_blank"></a>
+  <a href="https://tryhackme.com/p/Mr.N0body" target="_blank"><img src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/tryhackme.jpg" target="_blank">
+  </a>
 </div>
 
-https://tryhackme.com/p/Mr.N0body
+
 ### Routing & Switching
 <div style="display: inline_block">
   <img align="center" alt="JUNIPER" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
