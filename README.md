@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 👨‍💻I've be working on telecom for 5 years and decided to share my knowledge in routing and switching, I'm graduated in cybersecurity and also study offensive security since 2024. 
 
+## Tryhackme Profile
+
+ 
+<div> 
+  <a href="https://tryhackme.com/p/Mr.N0body" target="_blank"><img src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/tryhackme.jpg" target="_blank"></a>
+</div>
+
+https://tryhackme.com/p/Mr.N0body
 ### Routing & Switching
 <div style="display: inline_block">
   <img align="center" alt="JUNIPER" height="60" width="60" src="https://github.com/MrN0b0dy-cyber/MrN0b0dy-cyber/blob/main/Juniperlogo.png">
